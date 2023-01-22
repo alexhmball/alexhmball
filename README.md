@@ -1,5 +1,12 @@
-[![aball's 42 stats](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/stats?cursusId=21&coalitionId=153)](https://github.com/JaeSeoKim/badge42)
+
+<img align="left" width="1000px" alt="42 Stats" img src="https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/stats?cursusId=21&coalitionId=153">
+
+<!-- <img align="left" height="400px" alt="Github stats" img src="https://github-readme-stats.vercel.app/api?username=alexhmball&count_private=true&theme=radical"> -->
+
 #
+
+PROJECTS
+========
 
 ### *MINISHELL* [![aball's 42 minishell Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2772195)](https://github.com/alexhmball/minishell)
 
@@ -17,7 +24,7 @@
 
 ### *LIBFT* [![aball's 42 Libft Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2444332)](https://github.com/alexhmball/libft_42)
 
-##
+#
 
 <img align="left" alt="C" width="50px" img src="https://user-images.githubusercontent.com/26721576/213936591-1bc4c813-7090-40e8-908e-3c988ad89a8d.png">
 
