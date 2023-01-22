@@ -3,7 +3,7 @@
 
 <!-- <img align="left" height="400px" alt="Github stats" img src="https://github-readme-stats.vercel.app/api?username=alexhmball&count_private=true&theme=radical"> -->
 
-#
+<img align="centre" height="50px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
 
 PROJECTS
 ========
@@ -39,3 +39,8 @@ PROJECTS
 <img align="left" alt="Figma" width="50px" height="50px" img src="https://user-images.githubusercontent.com/26721576/213937171-ed991e53-a448-4480-a422-7b357619a7fe.svg">
 
 <img align="left" alt="Adobe Xd" height="50px" img src="https://user-images.githubusercontent.com/26721576/213937311-b5fefd14-beec-42e5-a7b8-1a19a84aa4c1.png">
+
+<img align="left" height="100px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
+
+
+<img align="bottom" alt="most used lang" width="1000px" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexhmball&layout=compact&count_private=true&theme=radical&hide=Roff,Perl&langs_count=10&hide_border=true">
