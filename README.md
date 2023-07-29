@@ -5,8 +5,8 @@
 
 <img align="centre" height="50px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
 
-PROJECTS
-========
+42 PROJECTS
+===========
 
 ### *MINISHELL* [![aball's 42 minishell Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2772195)](https://github.com/alexhmball/minishell)
 
