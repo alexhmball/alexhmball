@@ -3,8 +3,12 @@
 
 <img align="centre" height="50px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
 
+<span align="center"> 
+
 42 PROJECTS
 ===========
+
+  
 ### *FT_IRC* [![aball's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3097308)](https://github.com/Teetoz/ft_irc)
 
 ### *INCPETION* [![aball's 42 Inception Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3097306)](https://github.com/alexhmball/Inception_42)
@@ -47,6 +51,7 @@
 
 ### *LIBFT* [![aball's 42 Libft Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2444332)](https://github.com/alexhmball/libft_42)
 
+
 #
 
 <img align="left" alt="C" width="50px" img src="https://user-images.githubusercontent.com/26721576/213936591-1bc4c813-7090-40e8-908e-3c988ad89a8d.png">
@@ -62,6 +67,8 @@
 <img align="left" alt="Figma" width="50px" height="50px" img src="https://user-images.githubusercontent.com/26721576/213937171-ed991e53-a448-4480-a422-7b357619a7fe.svg">
 
 <img align="left" alt="Adobe Xd" height="50px" img src="https://user-images.githubusercontent.com/26721576/213937311-b5fefd14-beec-42e5-a7b8-1a19a84aa4c1.png">
+
+</span>
 
 <img align="left" height="100px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
 
