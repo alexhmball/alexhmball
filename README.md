@@ -1,12 +1,35 @@
 
 <img align="left" width="1000px" alt="42 Stats" img src="https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/stats?cursusId=21&coalitionId=153">
 
-<!-- <img align="left" height="400px" alt="Github stats" img src="https://github-readme-stats.vercel.app/api?username=alexhmball&count_private=true&theme=radical"> -->
-
 <img align="centre" height="50px" img src="https://user-images.githubusercontent.com/26721576/213942069-a3ee3eff-cb3c-4a0b-9604-5f566a31c5f8.png">
 
 42 PROJECTS
 ===========
+### *FT_IRC* [![aball's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3097308)](https://github.com/Teetoz/ft_irc)
+
+### *INCPETION* [![aball's 42 Inception Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3097306)](https://github.com/alexhmball/Inception_42)
+
+### *CUB3D* [![aball's 42 cub3d Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2926414)](https://github.com/alexhmball/cub3D)
+
+### *CPP MODULE 09* [![aball's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3150335)](https://github.com/alexhmball/CPP/tree/master/09)
+
+### *CPP MODULE 08* [![aball's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3110752)](https://github.com/alexhmball/CPP/tree/master/08)
+
+### *CPP MODULE 07* [![aball's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3110436)](https://github.com/alexhmball/CPP/tree/master/07)
+
+### *CPP MODULE 06* [![aball's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3110234)](https://github.com/alexhmball/CPP/tree/master/06)
+
+### *CPP MODULE 05* [![aball's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3097307)](https://github.com/alexhmball/CPP/tree/master/05)
+
+### *CPP MODULE 04* [![aball's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3026418)](https://github.com/alexhmball/CPP/tree/master/04)
+
+### *CPP MODULE 03* [![aball's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/3018875)](https://github.com/alexhmball/CPP/tree/master/03)
+
+### *CPP MODULE 02* [![aball's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2933013)](https://github.com/alexhmball/CPP/tree/master/02)
+
+### *CPP MODULE 01* [![aball's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2932723)](https://github.com/alexhmball/CPP/tree/master/01)
+
+### *CPP MODULE 00* [![aball's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2925350)](https://github.com/alexhmball/CPP/tree/master/00)
 
 ### *MINISHELL* [![aball's 42 minishell Score](https://badge42.vercel.app/api/v2/cld7q6phf00250fmkdzuikiyy/project/2772195)](https://github.com/alexhmball/minishell)
 
